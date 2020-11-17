@@ -22,6 +22,10 @@ body {
     margin-top: 0;
 }
 
+h1 {
+    margin: 0;
+}
+
 .button {
     display: flex;
     justify-content: space-between;
@@ -52,8 +56,8 @@ body {
 
 .avatar {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .bg-pan-top{
